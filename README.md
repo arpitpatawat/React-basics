@@ -1,10 +1,11 @@
 # my-react-projects
-  | Deployed Link | Repo Link |
-  |---------------|-----------|
-  |[birthday reminder](https://arpitpatawat-birthday-reminder.netlify.app/) | [Birthday reminder repo](https://github.com/arpitpatawat/my-react-projects/tree/master/01-birthday-reminder/setup)
-  | [Tours](https://arpitpatawat-tours.netlify.app/) | [tours repo](https://github.com/arpitpatawat/my-react-projects/tree/master/02-tours/setup/02-tours) |
-  | [Reviews](https://arpitpatawat-reviews.netlify.app/) | [Reviews repo](https://github.com/arpitpatawat/my-react-projects/tree/master/03-reviews/setup/03-reviews) |
-  | [Questions](https://arpitpatawat-questions.netlify.app/) | [Questions Repo](https://github.com/arpitpatawat/my-react-projects/tree/master/04-accordion/04-accordion)
+  | Deployed Link | Repo Link | info |
+  |---------------|-----------|------|
+  |[birthday reminder](https://arpitpatawat-birthday-reminder.netlify.app/) | [Birthday reminder repo](https://github.com/arpitpatawat/my-react-projects/tree/master/01-birthday-reminder/setup) | display user data, removing all |
+  | [Tours](https://arpitpatawat-tours.netlify.app/) | [tours repo](https://github.com/arpitpatawat/my-react-projects/tree/master/02-tours/setup/02-tours) | page Loading, Data fetching , removing 1 card at a time |
+  | [Reviews](https://arpitpatawat-reviews.netlify.app/) | [Reviews repo](https://github.com/arpitpatawat/my-react-projects/tree/master/03-reviews/setup/03-reviews) | React icons , button click to change card |
+  | [Questions](https://arpitpatawat-questions.netlify.app/) | [Questions Repo](https://github.com/arpitpatawat/my-react-projects/tree/master/04-accordion/04-accordion) | showing data, changing info on button press |
+  | [Menu](https://github.com/arpitpatawat/my-react-projects/tree/master/05-menu/setup) | [Menu-repo](https://arpitpatawat-menu.netlify.app/) | category wise menu display |
 
 ## Corresponding Tutorial Topics
 
