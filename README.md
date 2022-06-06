@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-# React Projects
-
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
+# my-react-projects
+  | Deployed Link | Repo Link |
+  |---------------|-----------|
+  |[birthday reminder](https://arpitpatawat-birthday-reminder.netlify.app/) | [Birthday reminder repo](https://github.com/arpitpatawat/my-react-projects/tree/master/01-birthday-reminder/setup)
+  | [Tours](https://arpitpatawat-tours.netlify.app/) | [tours repo](https://github.com/arpitpatawat/my-react-projects/tree/master/02-tours/setup/02-tours) |
+  | [Reviews](https://arpitpatawat-reviews.netlify.app/) | [Reviews repo](https://github.com/arpitpatawat/my-react-projects/tree/master/03-reviews/setup/03-reviews) |
+  | [Questions](https://arpitpatawat-questions.netlify.app/) | [Questions Repo](https://github.com/arpitpatawat/my-react-projects/tree/master/04-accordion/04-accordion)
 
 ## Corresponding Tutorial Topics
 
@@ -68,12 +57,3 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 22. Hacker News
 23. Quiz
 =======
-# my-react-projects
-  | Deployed Link | Repo Link |
-  |---------------|-----------|
-  |[birthday reminder](https://arpitpatawat-birthday-reminder.netlify.app/) | [Birthday reminder repo](https://github.com/arpitpatawat/my-react-projects/tree/master/01-birthday-reminder/setup)
-  | [Tours](https://arpitpatawat-tours.netlify.app/) | [tours repo](https://github.com/arpitpatawat/my-react-projects/tree/master/02-tours/setup/02-tours) |
-  | [Reviews](https://arpitpatawat-reviews.netlify.app/) | [Reviews repo](https://github.com/arpitpatawat/my-react-projects/tree/master/03-reviews/setup/03-reviews) |
-   
-
->>>>>>> e68eb69c8a5060797bbe5bb64e483a4dea27f419
