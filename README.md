@@ -6,6 +6,7 @@
   | [Reviews](https://arpitpatawat-reviews.netlify.app/) | [Reviews repo](https://github.com/arpitpatawat/my-react-projects/tree/master/03-reviews/setup/03-reviews) | React icons , button click to change card |
   | [Questions](https://arpitpatawat-questions.netlify.app/) | [Questions Repo](https://github.com/arpitpatawat/my-react-projects/tree/master/04-accordion/04-accordion) | showing data, changing info on button press |
   | [Menu](https://arpitpatawat-menu.netlify.app/) | [Menu-repo](https://github.com/arpitpatawat/my-react-projects/tree/master/05-menu/setup) | category wise menu display |
+  | [Tabs](https://arpitpatawat-tabs.netlify.app/) | [Tabs-Repo](https://github.com/arpitpatawat/React-basics/tree/master/06-tabs/setup) | fetched data, js-css functionality |
 
 ## Corresponding Tutorial Topics
 
