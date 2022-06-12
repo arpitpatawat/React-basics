@@ -7,7 +7,7 @@
   | [Questions](https://arpitpatawat-questions.netlify.app/) | [Questions Repo](https://github.com/arpitpatawat/my-react-projects/tree/master/04-accordion/04-accordion) | showing data, changing info on button press |
   | [Menu](https://arpitpatawat-menu.netlify.app/) | [Menu-repo](https://github.com/arpitpatawat/my-react-projects/tree/master/05-menu/setup) | category wise menu display |
   | [Tabs](https://arpitpatawat-tabs.netlify.app/) | [Tabs-Repo](https://github.com/arpitpatawat/React-basics/tree/master/06-tabs/setup) | fetched data, js-css functionality |
-  | [Slider](https://arpitpatawat-slider.netlify.app/) |[Slider-repo](https://github.com/arpitpatawat/React-basics/tree/master/07-slider/setup) | Image and info slider with CSS-js functionality, handling data overlap, Best reference|
+  | [Slider](https://arpitpatawat-slider.netlify.app/) |[Slider-repo](https://github.com/arpitpatawat/React-basics/tree/master/07-slider/setup) | ⭐ Image and info slider with CSS-js functionality, handling data overlap, Best reference|
 
 ## Corresponding Tutorial Topics
 
